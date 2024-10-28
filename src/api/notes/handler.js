@@ -72,5 +72,3 @@ class NotesHandler {
 }
 
 module.exports = NotesHandler;
-
-module.exports = NotesHandler;
