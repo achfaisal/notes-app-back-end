@@ -1,0 +1,9 @@
+### GET request to example server
+GET https://examples.http-client.intellij.net/get
+    ?generated-in=WebStorm
+
+### GET request all notes
+GET http://localhost:5000/notes
+
+### GET request test
+GET http://localhost:5000/test
